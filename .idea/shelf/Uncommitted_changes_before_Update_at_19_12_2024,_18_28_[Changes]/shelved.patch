@@ -1,0 +1,262 @@
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1734613562916)
++++ b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch	(date 1734613562916)
+@@ -0,0 +1,17 @@
++Index: .idea/misc.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/misc.xml b/.idea/misc.xml
++new file mode 100644
++--- /dev/null	(date 1734609004345)
+++++ b/.idea/misc.xml	(date 1734609004345)
++@@ -0,0 +1,6 @@
+++<?xml version="1.0" encoding="UTF-8"?>
+++<project version="4">
+++  <component name="Black">
+++    <option name="sdkName" value="Python 3.9 (PythonProject)" />
+++  </component>
+++</project>
++\ No newline at end of file
+Index: utils/notebook.ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/utils/notebook.ipynb b/utils/notebook.ipynb
+new file mode 100644
+--- /dev/null	(date 1734613562920)
++++ b/utils/notebook.ipynb	(date 1734613562920)
+@@ -0,0 +1,3 @@
++import pandas as pd
++
++print(3+1)
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1734613562922)
++++ b/.idea/misc.xml	(date 1734613562922)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Black">
++    <option name="sdkName" value="Python 3.9 (PythonProject)" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1734613562926)
++++ b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch	(date 1734613562926)
+@@ -0,0 +1,58 @@
++Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
++new file mode 100644
++--- /dev/null	(date 1734609204325)
+++++ b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch	(date 1734609204325)
++@@ -0,0 +1,17 @@
+++Index: .idea/misc.xml
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++diff --git a/.idea/misc.xml b/.idea/misc.xml
+++new file mode 100644
+++--- /dev/null	(date 1734609004345)
++++++ b/.idea/misc.xml	(date 1734609004345)
+++@@ -0,0 +1,6 @@
++++<?xml version="1.0" encoding="UTF-8"?>
++++<project version="4">
++++  <component name="Black">
++++    <option name="sdkName" value="Python 3.9 (PythonProject)" />
++++  </component>
++++</project>
+++\ No newline at end of file
++Index: utils/notebook.ipynb
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/utils/notebook.ipynb b/utils/notebook.ipynb
++new file mode 100644
++--- /dev/null	(date 1734610143242)
+++++ b/utils/notebook.ipynb	(date 1734610143242)
++@@ -0,0 +1,3 @@
+++import pandas as pd
+++
+++print(3+1)
++\ No newline at end of file
++Index: .idea/misc.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/misc.xml b/.idea/misc.xml
++new file mode 100644
++--- /dev/null	(date 1734609204611)
+++++ b/.idea/misc.xml	(date 1734609204611)
++@@ -0,0 +1,6 @@
+++<?xml version="1.0" encoding="UTF-8"?>
+++<project version="4">
+++  <component name="Black">
+++    <option name="sdkName" value="Python 3.9 (PythonProject)" />
+++  </component>
+++</project>
++\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1734613562675)
++++ b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch	(date 1734613562675)
+@@ -0,0 +1,126 @@
++Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
++new file mode 100644
++--- /dev/null	(date 1734611377789)
+++++ b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch	(date 1734611377789)
++@@ -0,0 +1,17 @@
+++Index: .idea/misc.xml
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++diff --git a/.idea/misc.xml b/.idea/misc.xml
+++new file mode 100644
+++--- /dev/null	(date 1734609004345)
++++++ b/.idea/misc.xml	(date 1734609004345)
+++@@ -0,0 +1,6 @@
++++<?xml version="1.0" encoding="UTF-8"?>
++++<project version="4">
++++  <component name="Black">
++++    <option name="sdkName" value="Python 3.9 (PythonProject)" />
++++  </component>
++++</project>
+++\ No newline at end of file
++Index: utils/notebook.ipynb
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/utils/notebook.ipynb b/utils/notebook.ipynb
++new file mode 100644
++--- /dev/null	(date 1734611377794)
+++++ b/utils/notebook.ipynb	(date 1734611377794)
++@@ -0,0 +1,3 @@
+++import pandas as pd
+++
+++print(3+1)
++\ No newline at end of file
++Index: .idea/misc.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/misc.xml b/.idea/misc.xml
++new file mode 100644
++--- /dev/null	(date 1734611377798)
+++++ b/.idea/misc.xml	(date 1734611377798)
++@@ -0,0 +1,6 @@
+++<?xml version="1.0" encoding="UTF-8"?>
+++<project version="4">
+++  <component name="Black">
+++    <option name="sdkName" value="Python 3.9 (PythonProject)" />
+++  </component>
+++</project>
++\ No newline at end of file
++Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch
++new file mode 100644
++--- /dev/null	(date 1734611377505)
+++++ b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch	(date 1734611377505)
++@@ -0,0 +1,58 @@
+++Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+++new file mode 100644
+++--- /dev/null	(date 1734609204325)
++++++ b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch	(date 1734609204325)
+++@@ -0,0 +1,17 @@
++++Index: .idea/misc.xml
++++IDEA additional info:
++++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++++<+>UTF-8
++++===================================================================
++++diff --git a/.idea/misc.xml b/.idea/misc.xml
++++new file mode 100644
++++--- /dev/null	(date 1734609004345)
+++++++ b/.idea/misc.xml	(date 1734609004345)
++++@@ -0,0 +1,6 @@
+++++<?xml version="1.0" encoding="UTF-8"?>
+++++<project version="4">
+++++  <component name="Black">
+++++    <option name="sdkName" value="Python 3.9 (PythonProject)" />
+++++  </component>
+++++</project>
++++\ No newline at end of file
+++Index: utils/notebook.ipynb
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++diff --git a/utils/notebook.ipynb b/utils/notebook.ipynb
+++new file mode 100644
+++--- /dev/null	(date 1734610143242)
++++++ b/utils/notebook.ipynb	(date 1734610143242)
+++@@ -0,0 +1,3 @@
++++import pandas as pd
++++
++++print(3+1)
+++\ No newline at end of file
+++Index: .idea/misc.xml
+++IDEA additional info:
+++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+++<+>UTF-8
+++===================================================================
+++diff --git a/.idea/misc.xml b/.idea/misc.xml
+++new file mode 100644
+++--- /dev/null	(date 1734609204611)
++++++ b/.idea/misc.xml	(date 1734609204611)
+++@@ -0,0 +1,6 @@
++++<?xml version="1.0" encoding="UTF-8"?>
++++<project version="4">
++++  <component name="Black">
++++    <option name="sdkName" value="Python 3.9 (PythonProject)" />
++++  </component>
++++</project>
+++\ No newline at end of file
