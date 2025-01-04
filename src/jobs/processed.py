@@ -16,4 +16,5 @@ from buisiness import utils
  diplômes et formations obtenues,                                      Done ( à imprimer )
  dernier avis d’imposition (individuel et/ou du couple).               Done ( à imprimer ) 
 
+
 """
