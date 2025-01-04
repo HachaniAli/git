@@ -9,8 +9,8 @@ from buisiness import utils
  dernière quittance de loyer (si locataire),                           Done ( à imprimer )
  attestation de propriété (si propriétaire) ou emprunt bancaire,
  pièce d’identité du conjoint français,                                Done   
- dernier bulletin de salaire ou justificatif de revenus pour les deux, Done ( à imprimer  le mien et celui d'Océ de Nov )
- contrats de travail pour les deux,                                    ( Contrat océ à imprimer + SIRET/SIREN de mon coté + quittence )
+ dernier bulletin de salaire ou justificatif de revenus pour les deux, Done ( à imprimer  le mien et celui d'Océ de Dec )
+ contrats de travail pour les deux,                                    ( Contrat océ Done + SIRET/SIREN de mon coté)
  justificatifs de la CAF,                                              Pas besoin
  CV du demandeur de la nationalité française                           Done ( à imprimer )
  diplômes et formations obtenues,                                      Done ( à imprimer )
