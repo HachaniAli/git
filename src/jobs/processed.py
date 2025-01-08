@@ -1,5 +1,5 @@
 from buisiness import utils
-
+from poo import family
 
 """
  Livrets de famille ou actes de naissance de tous les enfants,         Done
@@ -18,3 +18,11 @@ from buisiness import utils
 
 
 """
+
+didi = family("Yosr Hachani", 30, 'Female', 'La Tunisie')
+
+print(didi.prenom)
+print(didi.age)
+print(didi.gendre)
+print(didi.location)
+didi.sleep()
